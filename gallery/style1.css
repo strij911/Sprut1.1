@@ -1,0 +1,45 @@
+/* CSS Document */
+
+/*-------------------------------------------------
+=FOTO REPORT
+-------------------------------------------------*/
+
+.foto_preview {
+	border: 1px solid #999999;
+	padding: 2px;
+	}
+
+.foto_gallery {
+	padding: 2px;
+	margin:5px 10px 15px 0px;
+	}
+	
+.foto_left{
+	position:relative;
+	font-family:Verdana;
+	font-size:12px;
+	color:#313131;
+	padding:0px 0px 0px 20px;
+	}
+.fotoreport {
+	float:left;
+	margin:0px 12px 12px 0px;
+	border: 1px solid #999999;
+	padding: 2px;
+	}
+
+/*-------------------------------------------------
+=FOTO REPORT SUBMENU
+-------------------------------------------------*/
+.objects {width: 600px; display: block; font-size: 11px; float: left; padding: 0 10px; background-image: url(/gallery/images/menu_point.jpg); background-repeat: no-repeat; margin: 2px 0; background-position: 0% 15%;}
+.objectspoint img {border: 0px; padding: 0px; margin: 0px;}
+
+.toggle UL, OL, LI {margin: 0; padding: 0;}
+#menu li.toggle {color: #026fc0; font-size: 18px; padding: 8px 0; list-style: none;}
+#menu li.toggle, #menu li a { cursor: pointer }
+
+.picaleft {margin: 0 15px 10px 0;}
+.smipic {margin: 0 20px 15px 0;border: #666666 1px solid;}
+	
+.podryadchik {font-size: 11px;	font-weight: bold; color:#113158;}
+	
